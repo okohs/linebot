@@ -1,5 +1,6 @@
 {
     "require": {
-        "php": "7.0.8"
+        "php": "7.0.8",
+        "linecorp/line-bot-sdk": "^0.1.0"
     }
 }
