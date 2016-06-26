@@ -61,6 +61,3 @@ function chat($send_message) {
 
     return $res->utt;
 }
-
-
-?>
