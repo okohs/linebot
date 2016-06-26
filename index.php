@@ -1,5 +1,4 @@
 <?php
-<?php
 error_log("callback start.");
 
 // アカウント情報設定
